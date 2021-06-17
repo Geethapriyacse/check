@@ -1,3 +1,4 @@
+---
 applications:
  - name: witapptry
    random-route: true
